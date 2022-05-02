@@ -1,2 +1,3 @@
-# suncodeid.github.io
-Company Profile
+## Company Profile Suncode
+- Landing Page
+- Privacy Policy
