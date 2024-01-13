@@ -69,3 +69,4 @@ appads.in, 107606, RESELLER
 mintegral.com, 10038, RESELLER
 tremorhub.com, rwd19-2564096, RESELLER, 1a4e959a1b50034a
 google.com, pub-8021713355708246, RESELLER
+google.com, pub-4817305966525444, DIRECT, f08c47fec0942fa0
